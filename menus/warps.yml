@@ -1,0 +1,187 @@
+menu_title: '&4&lHero&f&lWarps'
+open_command:
+- warp
+- warps
+size: 35
+items:
+  '1':
+    material: grass_block
+    slot: 11
+    display_name: '&fMundos &4Hero'
+    lore:
+    - ''
+    - '&b|- Informações'
+    - '&b|- &fEscolha seu Mundo e bom jogo'
+    - '&b|- &fMundo &5End &fCusto &210k&f para entrar'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para Abrir o Menu de Mundos'
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] dm open terreno %player_name%'
+    - '[close]'
+  '2':
+    material: emerald
+    slot: 12
+    display_name: '&fLoja &4HeroCraft'
+    lore:
+    - '&b|- Loja do Servidor'
+    - '&b|- &fCompre Blocos decorativos'
+    - '&b|- &fVenda Seus Minérios'
+    - '&b|- &fultiliza &6/cash &fpara comprar vantagems no servidor'
+    - '&b|- &aVips &ftem direito a vender minérios com &220% de Desconto'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para ir pro &fWarp Loja &4HeroCraft'
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] warp loja %player_name%'
+    - '[close]'
+  '3':
+    material: fishing_rod
+    slot: 13
+    display_name: '&aPesca e Ganhe'
+    lore:
+    - '&b|- &bPesca e Ganhe no Servidor'
+    - '&b|- &fEventos de Pescas Semanalmente'
+    - '&b|- &fPremios para top 1 em Pescador'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para ir pro &aWarp Pesca'
+    - ''
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] warp mundonether %player_name%'
+    - '[close]'
+  '4':
+    material: bell
+    slot: 14
+    display_name: '&3Top Hero'
+    lore:
+    - '&b|- &bTop Hero'
+    - '&b|- &fSeja Top do servidor e ganhe recompensas'
+    - '&b|- &fPremios em &aVip, &6Pix &fe &dMuito Mais'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para ir pro &3Warp Top'
+    - ''
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] warp mundoend %player_name%'
+    - '[close]'
+  '5':
+    material: red_wool
+    slot: 15
+    display_name: '&4Eventos'
+    lore:
+    - '&b|- &bCentro de Eventos'
+    - '&b|- &fEventos Diarios e Semanal'
+    - '&b|- &fFique em top 1 em eventos e ganhe &6recompensas'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para ir pro &aWarp Eventos'
+    - ''
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] warp evento %player_name%'
+    - '[close]'
+  '6':
+    material: bookshelf
+    slot: 20
+    display_name: '&dTutorial'
+    lore:
+    - '&b|- &bAprenda a jogar no servidor de forma correta'
+    - '&b|- &faprenda sobre &dComandos, &aVantagems, &3etc.'
+    - '&b|- &fSeja Muito Bem Vindo'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para ir pro &aWarp Tutorial'
+    - ''
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] warp tutorial %player_name%'
+    - '[close]'
+  '7':
+    material: ender_chest
+    slot: 21
+    display_name: '&bCaixas'
+    lore:
+    - '&b|- &bGanhe intems abrindo caixas misteriosas'
+    - '&b|- &fKeys comun voce consegue votando no servidor'
+    - '&b|- &fKeys &6lendarias&f voce consegue ganhando eventos'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para ir pro &aWarp Caixas'
+    - ''
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] warp caixas %player_name%'
+    - '[close]'
+  '8':
+    material: beacon
+    slot: 22
+    display_name: '&2Mercados'
+    lore:
+    - '&b|- &2Mercado &2Online'
+    - '&b|- &fVenda ou compre items de jogadores online'
+    - '&b|- &fVips tem permissão de colocar mais items ah venda'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para abrir o menu de Mercados'
+    - ''
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] warp mercado %player_name%'
+    - '[close]'
+  '9':
+    material: furnace
+    slot: 24
+    display_name: '&8Trabalhos'
+    lore:
+    - '&b|- &bConsiga um Trabalho'
+    - '&b|- &fCada trabalho escolhido tera recompensas'
+    - '&b|- &fAumente o seu nivel de habilidade para ganhar recompensas'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para ir pro &aWarp Trabalhos'
+    - ''
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] warp trabalho %player_name%'
+    - '[close]'
+  '10':
+    material: allay_spawn_egg
+    slot: 23
+    display_name: '&5Mobs'
+    lore:
+    - '&b|- &bFonte de Comida'
+    - '&b|- &fMate mobs e consiga comidas 0800'
+    - '&b|- &fAssim voce acabar com a sua fome'
+    - ''
+    - '&b|- &fClique com o Botao Esquerdo para ir pro &aWarp Mobs'
+    - ''
+    - ''
+    - ' &f&LBom Jogos a Todos'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[console] warp mobs %player_name%'
+    - '[close]'

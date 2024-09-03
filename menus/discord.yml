@@ -1,0 +1,79 @@
+menu_title: '&e&lMenu de Discord'
+open_command:
+- vincular
+- dc
+size: 53
+items:
+    
+  '1':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2FlMjdiMTgwZGQ5NmJlODNhMmE1YTVkYTUxMWFkNDRmYjRmZGMxZDMyYTdiZmM4MjljZmViZTQzNDFkMzVlMyJ9fX0='
+    slot: 20
+    display_name: '&6&lINFORMAÇÕES:'
+    lore:
+    - '&f□ &AIP: &f'
+    - '&f□ &ASite: &f'
+    - '&f□ &AYoutuber: &f'
+    - '&f□ &ADiscord: &f'
+    
+  
+    
+  '2':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc2N2VkNzllZGU3YjU4MWRlNGM2YzczMWY1Yjg1OTg5MjRjZjQ1NmU1YTQwNDBlMjdmZGYyNWFjNjAyNTMxZCJ9fX0='
+    slot: 22
+    display_name: '&6&LColetar Kit Booster'
+    lore:
+    - ''
+    - '&e• &cBooster:'
+    - '&e• &7Receba &f1.5+ EXP a mais.'
+    - '&e• &7Acesso ao kit booster.'
+    - '&e• &7Tag no discord da Comunidade.' 
+    - '&e• &7Receba &f15k de Dinheiro'
+    - ''
+    - '&5O que vem no Kit:'
+    - '&e• &71x Picareta Booster.'
+    - '&e• &71x Machado Booster.'
+    - '&e• &71x Pá Booster.'
+    - '&e• &71x Besta Booster.'
+    - '&e• &71x Arco Booster.'
+    - '&e• &71x Escudo Booster.'
+    - '&e• &71x Espada Booster.'
+    - '&e• &764x Flecha Booster.'
+    - '&e• &732x Barra de Ferro.'
+    - '&e• &75x Maça dourada.'
+    - '&e• &71x Pedra de xp 2X.'
+    - '&e• &764x Esmeraldas.'
+    - '&e• &73x Pack de Frasco XP.'
+    - '&e• &78x Esponja Mágica.'
+    - '&7'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[player] dm open youtuber %player_name%'
+    - '[close]'
+    
+  '3':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzc1MTZhODg0YTkxMGU5YTcyMTYxYzUxMDFjZWM5YWQ3ZGQ4MmQwYTlhMThhMzg4M2I5ZWMyZWFiNzBhMDA4ZCJ9fX0='
+    slot: 24
+    display_name: '&6&LVincular Discord'
+    lore:
+    - '&7Vincule o seu Discord'
+    - '&7ao servidor e receba o kit booster'
+    - ''
+    - '&aClique para vincular'
+    left_click_commands:
+    - '[close]'
+    - '[sound] BLOCK_CHEST_CLOSE'
+    - '[player] dm open eventos %player_name%'
+    - '[close]'
+
+close]'
+    
+  '13':
+    material: 'red_dye'
+    slot: 49
+    display_name: '&C&LSAIR'
+    left_click_commands:
+    - '[close]'
+    right_click_commands:
+    - '[close]'
+ 

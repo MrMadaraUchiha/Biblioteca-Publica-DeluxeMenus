@@ -1,0 +1,57 @@
+menu_title: Reparar
+open_command: reparar
+register_commands: true
+size: 36
+items:
+  repararmao:
+    slot: 12
+    material: ANVIL
+    display_name: "&e&LREPARAR ITEM"
+    lore:
+    - "&7Repara o item que está em sua mão."
+    - ""
+    - "&6&l| &fPreço: &a$10.000"
+    - ""
+    - "&eClique para reparar."
+    click_commands:
+    - "[takemoney] 10000"
+    - "[givepermission] essentials.repair"
+    - "[player] repair hand"
+    - "[takepermission] essentials.repair"
+    click_requirement:
+      requirements:
+        dinheiro:
+          type: has money
+          amount: 10000
+          deny_commands:
+          - "[minimessage] <red>Você não tem dinheiro suficiente!"
+          - "[close]"
+  repararinv:
+    slot: 14
+    material: ANVIL
+    display_name: "&e&LREPARAR TODOS OS ITENS"
+    lore:
+    - "&7Repara todos os itens do seu inventário."
+    - ""
+    - "&6&l| &fPreço: &a$65.000"
+    - ""
+    - "&eClique para reparar."
+    click_commands:
+    - "[takemoney] 65000"
+    - "[givepermission] essentials.repair"
+    - "[player] repair all"
+    - "[takepermission] essentials.repair"
+    click_requirement:
+      requirements:
+        dinheiro:
+          type: has money
+          amount: 65000
+          deny_commands:
+          - "[minimessage] <red>Você não tem dinheiro suficiente!"
+          - "[close]"
+  fechar:
+    slot: 31
+    material: RED_DYE
+    display_name: "&cFechar"
+    click_commands:
+      - "[close]"

@@ -1,0 +1,231 @@
+menu_title: '&7&lAjuda'
+open_command:
+- ajuda
+- help
+size: 53
+items:
+  '1':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 11
+    display_name: '&6&lDicas INICIAIS'
+    lore:
+    - '&eIniciante no Fullpvp?'
+    - ''
+    - '&a1º &7Escreve /kit e pegue o kit básico'
+    - '&a2º &7Escreve /warp mina'
+    - '&a3º &7Minere e vende os minérios nas placas.'
+    - '&a4º &7Consiga 12.500 e compre uma plot escrevendo o comado /help-plot.'   
+  '2':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 12
+    display_name: '&6&lCOMANDOS BASICOS'
+    lore:
+    - '&7(/comandos)'
+    - ''
+    - '&e* &a/kit &f» &7Escolher kit'
+    - '&e* &a/warps &f» &7Ver as warps do fullpvp'
+    - '&e* &a/mercados &f» &7Ver o menu do mercado'
+    - '&e* &a/trade &f» &7Fazer trocas com players'
+    - '&e* &a/rankup &f» &7Upar de RankUP'
+    - '&e* &a/eventos &f» &7Eventos Diários'
+    - '&e* &a/g &f» &7Falar no chat global'
+    - '&e* &a/echest &f» &7Baú privado'
+    - '&e* &a/Tell NICK MSG &f» &7Enviar mensagem privada'
+    - '&e* &a/p auto &f» &7Comprar um Terreno aleatorio'
+    - '&e* &a/ignorar NICK &f» &7Ignorar player'
+    - '&e* &a/money pay NICK QUANTIDADE &f» &7Pagar alguém'
+    - '&e* &a/money top NICK QUANTIDADE &f» &7TOPS jogadores com dinheiro'
+    - '&e* &a/clan &f» &7Menu de clãns'
+    - '&e* &a/farms &f» &7Para ativar ou desativar mensangens de vendas da sua farm'
+    - '&e* &a/autosell &f» &7Menu de mineração automatica'
+    
+  '3':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 13
+    display_name: '&6&lTERRENOS'
+    lore:
+    - '&7(/help-plot)'
+    - ''
+    - '&7Compre um Plot para'
+    - '&7construir sua Casa ou'
+    - '&7uma Farm e conseguir'
+    - '&7muito mais dinheiro!'
+    - ''
+    - '&aClique paara acessar'
+    - '&ao menu de terrenos.'
+    
+  '4':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 14
+    display_name: '&6&lDICAS DO MERCADO'
+    lore:
+    - '&7(/mercados)'
+    - ''
+    - '&e* &a/warp loja &f» &7ir na loja fisica.'
+    - '&e* &a/loja &f» &7Loja virtual.'
+    - '&e* &a/mercado &f» &7Mercado dos jogadores'
+    - '&e* &a/trade <nick> &f» &7Trocar itens.'
+    
+  '5':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 15
+    display_name: '&6&lREGRAS DO SERVIDOR'
+    lore:
+    - '&7(/regras)'
+    - ''
+    - '&7Leia as regras para'
+    - '&7evitar ser punido'
+    - ''
+    - '&aClique paara acessar'
+    - '&fEmbreve'
+    
+  '6':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 20
+    display_name: '&6&lLINKS'
+    lore:
+    - '&f□ &AIP: &fEmbreve'
+    - '&f□ &ASite: &fEmbreve'
+    - '&f□ &ALoja: &fEmbreve'
+    - '&f□ &AFórum: &fEmbreve'
+    - '&f□ &AYoutuber: &fEmbreve'
+    - '&f□ &Afacebook: &fEmbreve'
+    - '&f□ &ATwitter: &fEmbreve'
+    - '&f□ &ADiscord: &fEmbreve'
+    
+  '7':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 21
+    display_name: '&6&lVIP'
+    lore:
+    - '&7(vip)'
+    - ''
+    - '&7Comprado &BVIP &7além'
+    - '&7de receber alguns benefícios'
+    - '&7você estará ajudando o'
+    - '&7servidor a se manter'
+    - '&7atualizando.'
+    - ''
+    - '&aClique paara acessar'
+    - '&fEmbreve'
+    
+  '8':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 22
+    display_name: '&6&LCriadores'
+    lore:
+    - '&7(criadores)'
+    - ''
+    - '&e• &cYoutuber:'
+    - '&e• &7Ter mais de &f300 incritos.'
+    - '&e• &7Possuir &f1 vídeo &7gravado no servidor.'
+    - '&e• &7o canal deve ser ativo e com no minino' 
+    - '&720 vídeos já postado no canal.'
+    - '&e• &7Não deve ter suspeita de bot.'
+    - ''
+    - '&5Streamer:'
+    - '&e• &7Minimo &f2 live &7por semana no servidor.'
+    - '&e• &7&f300 &7visualizações semanais em'
+    - '&e• &7somatorias das lives realizadas.'
+    - '&e• &7Obrigatorio deixar VOD salvo'
+    - '&7'
+    - '&DTiktoker'
+    - '&e• &7Ter &f 100 &7seguidores no minimo'
+    - '&e• &7Minimo de 100 visualizaçoes por vídeos'
+    - '&e• &7Postar vídeos de minecraft e vídeos frequentes.'
+    - '&e• &7Vídeos com qualidade e ter um canal organizado'
+    - '&e• &7e com qualidade também.'
+    - '&7'
+    - '&eObservação:'
+    - '&cCaso exclua os vídeos/live ou:'
+    - '&cFique inativo a tag é removida.:'
+    - ''
+    - '&cé obrigatorio deixar o IP e o site'
+    - '&cdo servidor nas descrições.'
+    
+  '9':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 23
+    display_name: '&6&LVOTE GLADMC'
+    lore:
+    - '&7(/vote)'
+    - ''
+    - '&eO que é isso?'
+    - '&7Você votando no servidor diariamente e'
+    - '&7em todos os links disponíveis do &f/vote,'
+    - '&7você irá ganhar prêmios incriveis.'
+    - '&7'
+    - '&cVoce só pode votar 1 vez'
+    - '&ca cada 24 Horas.'
+    - ''
+    - '&bVOTE PARTY'
+    - '&7Convide o máximo de pessoas para votar'
+    - '&7no servidor. Caso atingirmos 150 votos.'
+    - '&7todos os playres online serão premiados!'
+    - ''
+    - '&7Botão &fEsquerdo &7para votar.'
+    - '&7Botão &fDireito &7para mandar mensagem.'
+    
+  '10':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 24
+    display_name: '&6&LSUPORTE AVANÇADO'
+    lore:
+    - '&7Você está precisando de'
+    - '&7um suporte avançado com'
+    - '&7a Equipe, ou quer relatar'
+    - '&7bugs ou enviar sugestões?'
+    - ''
+    - '&eAcesse: &fembreve'
+    - ''
+    - '&7Depois crie um ticket na'
+    - '&7categoria que desejar,'
+    - '&7indo no canal &f"suporte-ticket"'
+    - ''
+    - '&aClique AQUI para acessar'
+    - '&ao link do nosso discord'
+    
+  '11':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 29
+    display_name: '&6&LTUTORIAL'
+    lore:
+    - '&7Primeira vez jogando em'
+    - '&7nosso FullPvP?'
+    - '&7'
+    - '&ECLIQUE AQUI para fazer um'
+    - '&Etutorial dentro do servidor e'
+    - '&Esaber como jogar o minigame'
+    
+  '12':
+    material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDJjM2Q3MzE3NzA3OTdlMTdhYmNiMTRhZTBmYzlkOWUwNjhkZWI3NDlkZGRiOTI1MDFjMGY2MTQ1NzY5ZTI1YyJ9fX0='
+    slot: 30
+    display_name: '&6&LCOMO SETAR WARP/HOME'
+    lore:
+    - ''
+    - '&eO que é warp?'
+    - '&7É para você definir uma localização'
+    - '&7e os outros jogadores ou você poderão'
+    - '&7teletransportar até ela de uma forma'
+    - '&7mais fácil e rápido.'
+    - ''
+    - '&eVou usar isto para que?'
+    - '&7Você pode definir um local para'
+    - '&7as pessoas teleportar para sua'
+    - '&7casa, farm, loja ou evento.'
+    - ''
+    - '&eComo faço isso?'
+    - '&7Escreve &f/pw set &7em seu chat.'
+    - ''
+    - '&fPara saber mais comandos de warp'
+    - '&fescreva &e/pw help.'
+    
+  '13':
+    material: 'red_dye'
+    slot: 49
+    display_name: '&C&LSAIR'
+    left_click_commands:
+    - '[close]'
+    right_click_commands:
+    - '[close]'
+ 

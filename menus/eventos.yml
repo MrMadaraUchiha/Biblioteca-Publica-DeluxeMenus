@@ -1,0 +1,140 @@
+menu_title: '&7&lEventos diários'
+open_command:
+- eventos
+- events
+size: 54
+items:
+  '1':
+    material: 'emerald'
+    slot: 0
+    display_name: '&a&lSEGUNDA-FEIRA'
+    lore:
+    - '&eClique para ver os eventos'
+  '2':
+    material: 'diamond'
+    slot: 1
+    display_name: '&b&lTERÇA-FEIRA'
+    lore:
+    - '&eClique para ver os eventos'
+  '3':
+    material: 'iron_sword'
+    slot: 2
+    display_name: '&f&lQUARTA-FEIRA'
+    lore:
+    - '&eClique para ver os eventos'
+  '4':
+    material: 'snowball'
+    slot: 3
+    display_name: '&f&lQUINTA-FEIRA'
+    lore:
+    - '&eClique para ver os eventos'
+  '5':
+    material: 'tnt'
+    slot: 4
+    display_name: '&6&lSEXTA-FEIRA'
+    lore:
+    - '&eClique para ver os eventos'
+  '6':
+    material: 'golden_sword'
+    slot: 5
+    display_name: '&e&lSABADO'
+    lore:
+    - '&eClique para ver os eventos'
+  '7':
+    material: 'netherite_sword'
+    slot: 6
+    display_name: '&4&lDOMINGO'
+    lore:
+    - '&eClique para ver os eventos'
+  '8':
+    material: 'glass'
+    slot: 8
+    display_name: '&f&l'
+    lore:
+  '9':
+    material: 'glass'
+    slot: 9
+    display_name: '&f&l'
+    lore:
+  '10':
+    material: 'glass'
+    slot: 10
+    display_name: '&f&l'
+    lore:
+  '11':
+    material: 'glass'
+    slot: 11
+    display_name: '&f&l'
+    lore:
+  '12':
+    material: 'glass'
+    slot: 12
+    display_name: '&f&l'
+    lore:
+  '13':
+    material: 'glass'
+    slot: 13
+    display_name: '&f&l'
+    lore:
+  '14':
+    material: 'glass'
+    slot: 14
+    display_name: '&f&l'
+    lore:
+  '15':
+    material: 'glass'
+    slot: 15
+    display_name: '&f&l'
+    lore:
+  '16':
+    material: 'glass'
+    slot: 16
+    display_name: '&f&l'
+    lore:
+  '17':
+    material: 'glass'
+    slot: 17
+    display_name: '&f&l'
+    lore:
+  '29':
+    material: 'glass'
+    slot: 29
+    display_name: '&f&l'
+    lore:
+    - '&7'
+  '30':
+    material: 'glass'
+    slot: 30
+    display_name: '&f&l'
+    lore:
+    - '&7'
+  '31':
+    material: 'glass'
+    slot: 31
+    display_name: '&f&l'
+    lore:
+    - '&7'
+  '32':
+    material: 'glass'
+    slot: 32
+    display_name: '&f&l'
+    lore:
+    - '&7'
+  '33':
+    material: 'glass'
+    slot: 33
+    display_name: '&f&l'
+    lore:
+    - '&7'
+  '48':
+    material: 'glass'
+    slot: 48
+    display_name: '&f&l'
+    lore:
+    - '&7'
+  '50':
+    material: 'glass'
+    slot: 50
+    display_name: '&f&l'
+    lore:
+    - '&7'
